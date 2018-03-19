@@ -17,6 +17,6 @@ function holidayCountdown(holiday, days) {
 
 happyHolidays()
 
-happyHolidaysTo("Temitope")
+happyHolidaysTo("Temitope")learn
 happyHolidayTo("Easter", "Temitope")
 holidayCountdown("Easter", 15)
